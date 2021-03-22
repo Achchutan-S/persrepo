@@ -10,3 +10,5 @@ while (b!=0):
     i=i+1
     if i==3:
         break
+print("Changes in dev")
+print("You hav been added to repository")
